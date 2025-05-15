@@ -80,16 +80,3 @@ Configurar uma solução de **mineração de conhecimento** para a empresa fict�
 - Search Explorer
 
 ---
-
-## 📁 Estrutura Recomendada
-
-```bash
-Azure-Cognitive-Search/
-│
-├── documentos/
-│   └── [Arquivos PDF ou TXT]
-│
-├── imagens/
-│   └── [Prints ou evidências do projeto]
-│
-└── README.md
